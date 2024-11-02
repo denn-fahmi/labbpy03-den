@@ -24,7 +24,7 @@ MATA KULIAH: BAHASA PEMOGRAMAN <p>
     - Program selesai setelah menampilkan n bilangan acak yang kurang dari 0.5.
       
 ### Program python
-![gambar1](screenshot/DN1.png)
+![gambar1](DN1.png)
 ### Hasil eksekusi program 
 ini hasil eksekusi program python diatas
 ![gambar2](screenshot/DN2.png)
