@@ -26,7 +26,7 @@ MATA KULIAH: BAHASA PEMOGRAMAN <p>
 ### Program python
 ![gambar1](DN1.png)
 ### Hasil eksekusi program 
-ini hasil eksekusi program python diatas
+ini hasil eksekusi program python diatas <p>
 ![gambar2](DN2.png)
 
 ## Latihan2: Laba
@@ -53,7 +53,7 @@ ini hasil eksekusi program python diatas
 ### Program python
 ![gambar3](DN3.png)
 ### Hasil eksekusi program 
-ini hasil eksekusi program python diatas
+ini hasil eksekusi program python diatas <p>
 ![gambar4](DN4.png)
 
 ## Latihan3: Mesin atm
@@ -87,5 +87,5 @@ seperti ini jika algoritma yang dibuat dalam bentuk flowchart, di jadikan sebuah
 ![gambar5](DN5.png)
 
 ### Hasil eksekusi program 
-ini hasil eksekusi program python diatas
+ini hasil eksekusi program python diatas <p>
 ![gambar6](DN6.png)
